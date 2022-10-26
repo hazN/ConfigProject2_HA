@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<GameState>
+  <TotalGuesses intVal="1" />
+  <CorrectGuesses intVal="0" />
+  <CurrentWord>volcano</CurrentWord>
+</GameState>

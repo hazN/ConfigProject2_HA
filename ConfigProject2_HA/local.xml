@@ -1,0 +1,177 @@
+<localization>
+	<message category="WELCOME">
+		<text lang="en">Welcome to the guessing game!</text>
+	</message>
+	<message category="WELCOME">
+		<text lang="fr">Bienvenue dans le jeu de devinettes!</text>
+	</message>
+	<message category="WELCOME">
+		<text lang="es">Bienvenido al juego de adivinanzas!</text>
+	</message>
+	<message category="WELCOME">
+		<text lang="it">Bienvenido al juego de adivinanzas!</text>
+	</message>
+	<message category="WELCOME">
+		<text lang="nl">Welkom bij het raadspel!</text>
+	</message>
+	
+	<message category="RULES">
+		<text lang="en">You will be given a word missing a single letter, you must guess that word off of that.</text>
+	</message>
+	<message category="RULES">
+		<text lang="fr">On vous donnera un mot manquant d'une seule lettre, vous devez deviner ce mot a partir de cela.</text>
+	</message>
+	<message category="RULES">
+		<text lang="es">Se le dará una palabra a la que le falta una sola letra, debe adivinar esa palabra a partir de eso.</text>
+	</message>
+	<message category="RULES">
+		<text lang="it">Ti verra data una parola in cui manca una sola lettera, devi indovinare quella parola da quella.</text>
+	</message>
+	<message category="RULES">
+		<text lang="nl">Je krijgt een woord dat een enkele letter mist, je moet dat woord daarvan raden.</text>
+	</message>	
+	
+	<message category="INCORRECT">
+		<text lang="en">Unfortunately that is incorrect.</text>
+	</message>
+	<message category="INCORRECT">
+		<text lang="fr">Unfortunately that is incorrect.</text>
+	</message>
+	<message category="INCORRECT">
+		<text lang="es">Desafortunadamente eso es incorrecto.</text>
+	</message>
+	<message category="INCORRECT">
+		<text lang="it">Purtroppo non e corretto.</text>
+	</message>	
+	<message category="INCORRECT">
+		<text lang="nl">Helaas klopt dat niet.</text>
+	</message>		
+	
+	<message category="CORRECT">
+		<text lang="en">Correct, good job!</text>
+	</message>	
+	<message category="CORRECT">
+		<text lang="fr">Correct, bon travail!</text>
+	</message>	
+	<message category="CORRECT">
+		<text lang="es">Correcto, buen trabajo!</text>
+	</message>	
+	<message category="CORRECT">
+		<text lang="it">Esatto, buon lavoro!</text>
+	</message>	
+	<message category="CORRECT">
+		<text lang="nl">Juist, goed bezig!</text>
+	</message>	
+	
+	<message category="OPTIONS">
+		<text lang="en">Enter the word you want to guess or 's' to save the current gamestate.</text>
+	</message>	
+	<message category="OPTIONS">
+		<text lang="fr">Entrez le mot que vous voulez deviner ou 's' pour enregistrer l'etat de jeu actuel.</text>
+	</message>	
+	<message category="OPTIONS">
+		<text lang="es">Ingrese la palabra que desea adivinar o 's' para guardar el estado actual del juego.</text>
+	</message>	
+	<message category="OPTIONS">
+		<text lang="it">Inserisci la parola che vuoi indovinare o 's' per salvare lo stato di gioco corrente.</text>
+	</message>
+	<message category="OPTIONS">
+		<text lang="nl">Voer het woord in dat je wilt raden of 's' om de huidige gamestatus op te slaan.</text>
+	</message>	
+	
+	<message category="SAVED">
+		<text lang="en">Gamestate saved, you can exit now.</text>
+	</message>	
+	<message category="SAVED">
+		<text lang="fr">Gamestate enregistre, vous pouvez quitter maintenant.</text>
+	</message>	
+	<message category="SAVED">
+		<text lang="es">Gamestate guardado, puedes salir ahora.</text>
+	</message>	
+	<message category="SAVED">
+		<text lang="it">Gamestate salvato, puoi uscire ora.</text>
+	</message>	
+	<message category="SAVED">
+		<text lang="nl">Gamestate opgeslagen, je kunt nu afsluiten.</text>
+	</message>		
+	
+	<message category="LOADED">
+		<text lang="en">Gamestate has loaded!</text>
+	</message>	
+	<message category="LOADED">
+		<text lang="fr">Gamestate a charge!</text>
+	</message>	
+	<message category="LOADED">
+		<text lang="es">Gamestate ha cargado!</text>
+	</message>	
+	<message category="LOADED">
+		<text lang="it">Lo stato di gioco e stato caricato!</text>
+	</message>	
+	<message category="LOADED">
+		<text lang="nl">Gamestate is geladen!</text>
+	</message>		
+	
+	<message category="STARTGAME">
+		<text lang="en">Enter 'n' to start a new game or 'l' to load the saved gamestate...</text>
+	</message>	
+	<message category="STARTGAME">
+		<text lang="fr">Entrez 'n' pour demarrer une nouvelle partie ou 'l' pour charger l'etat de jeu enregistre...</text>
+	</message>	
+	<message category="STARTGAME">
+		<text lang="es">Ingrese 'n' para comenzar un nuevo juego o 'l' para cargar el estado del juego guardado...</text>
+	</message>	
+	<message category="STARTGAME">
+		<text lang="it">Immettere 'n' per iniziare una nuova partita o 'l' per caricare lo stato di gioco salvato...</text>
+	</message>	
+	<message category="STARTGAME">
+		<text lang="nl">Voer 'n' in om een ​​nieuw spel te starten of 'l' om de opgeslagen gamestatus te laden...</text>
+	</message>	
+	
+	<message category="CGUESSES">
+		<text lang="en">Correct guesses:</text>
+	</message>
+	<message category="CGUESSES">
+		<text lang="fr">Conjectures correctes:</text>
+	</message>	
+	<message category="CGUESSES">
+		<text lang="es">Suposiciones correctas:</text>
+	</message>	
+	<message category="CGUESSES">
+		<text lang="it">Ipotesi corrette:</text>
+	</message>	
+	<message category="CGUESSES">
+		<text lang="nl">Juiste gissingen:</text>
+	</message>	
+	
+	<message category="TGUESSES">
+		<text lang="en">Total guesses:</text>
+	</message>
+	<message category="TGUESSES">
+		<text lang="fr">Suppositions totales:</text>
+	</message>	
+	<message category="TGUESSES">
+		<text lang="es">Suposiciones totales:</text>
+	</message>	
+	<message category="TGUESSES">
+		<text lang="it">Supposizioni totali:</text>
+	</message>	
+	<message category="TGUESSES">
+		<text lang="nl">Totaal gissingen:</text>
+	</message>	
+
+	<message category="IGUESSES">
+		<text lang="en">Incorrect guesses:</text>
+	</message>
+	<message category="IGUESSES">
+		<text lang="fr">Suppositions incorrectes:</text>
+	</message>	
+	<message category="IGUESSES">
+		<text lang="es">Suposiciones incorrectas:</text>
+	</message>	
+	<message category="IGUESSES">
+		<text lang="it">Ipotesi errate:</text>
+	</message>	
+	<message category="IGUESSES">
+		<text lang="nl">Onjuiste schattingen:</text>
+	</message>	
+</localization>
